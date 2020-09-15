@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>Ola</h2>
+
 <!--
 **Tiago-Alves-dos-Santos/Tiago-Alves-dos-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
