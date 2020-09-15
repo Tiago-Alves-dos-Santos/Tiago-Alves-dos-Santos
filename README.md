@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/tabular/xiaoluoboding.md
 https://github.com/kautukkundan/Awesome-Profile-README-templates/edit/master/tabular/DiptoChakrabarty.md
 
 https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/short-and-sweet/MillyCodes.md
