@@ -1,8 +1,8 @@
-# Olá! 
+# Olá! Me chamo Tiago Alves!
 
 Eu ❤️ desenvolvimento web!
 
-:computer: Sou graduando em Sistemas De Informação
+:computer: Sou graduando em Sistemas De Informação, 6º período.
 
 :writing_hand: Eu direcionei meu foco principalmente para o desenvolvimento web com php usando frameork laravel entre demais tecnologias. 
 
