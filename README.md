@@ -2,7 +2,7 @@
 
 Eu ❤️ desenvolvimento web!
 
-:computer: Sou graduando em Sistemas De Informação, 6º período.
+:computer: Sou graduando em Sistemas De Informação, 7º período.
 
 :writing_hand: Eu direcionei meu foco principalmente para o desenvolvimento web com php usando frameork laravel entre demais tecnologias. 
 
